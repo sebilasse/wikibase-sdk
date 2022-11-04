@@ -32,8 +32,8 @@
   - [wikibaseTimeToEpochTime](#wikibasetimetoepochtime)
   - [wikibaseTimeToISOString](#wikibasetimetoisostring)
   - [wikibaseTimeToSimpleDay](#wikibasetimetosimpleday)
-  - [getImageUrl](#getimageurl)
-  - [getEntityIdFromGuid](#getentityidfromguid)
+- [getImageUrl](#getimageurl)
+- [getEntityIdFromGuid](#getentityidfromguid)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
