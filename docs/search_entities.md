@@ -14,7 +14,7 @@ https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Ingmar%20Bergm
 or with more parameters:
 ```js
 const search = 'Ingmar Bergman'
-const language = 'fr' // will default to 'en'
+const language = 'fr' // will default to 'en', the key "mul" means "default for all languages"
 const limit = 10 // defaults to 20
 const format = 'json' // defaults to json
 
